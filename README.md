@@ -25,5 +25,7 @@ Success rates differ across time periods, indicating opportunities for operation
 -Distance-based ride segmentation reveals varying customer preferences and revenue contribution patterns.
 # Files
 -EDA in Python
+<a herf="https://github.com/shagun-s/Ola-Ride-Booking-Analysis-/blob/main/eda_p1.ipynb">Notebook</a>
 -Dataset
 -Power BI Dashboard
+<a herf="https://github.com/shagun-s/Ola-Ride-Booking-Analysis-/blob/main/p1.pbix">View Dashboard</a>
